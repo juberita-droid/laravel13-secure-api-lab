@@ -2,7 +2,7 @@
 
 - **Name:** Joemarie Q. Uberita
 - **Course / Section:** ITE 315 - Integrative Programming & Technologies II
-- **Repository URL:** https://github.com/YOUR_USERNAME/laravel13-secure-api-lab
+- **Repository URL:** https://github.com/juberita-droid/laravel13-secure-api-lab
 
 ## Screenshots Checklist
 - 01-public-api-200.png
